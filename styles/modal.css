@@ -1,0 +1,34 @@
+.modal-container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0.2);
+	z-index: 999;
+	font-family: "Poppins";
+}
+
+.modal {
+	margin: 90px auto;
+	background: white;
+	border-radius: 12px;
+	padding: 20px 40px;
+	font-family: "Poppins";
+
+}
+
+.card-modal {
+	width: 95%;
+	max-width: 670px;
+	font-family: "Poppins";
+	background: #ffdbfa
+
+}
+
+.add-list-modal {
+	width: 95%;
+	max-width: 360px;
+	font-family: "Poppins";
+	background: #ffdbfa
+}
